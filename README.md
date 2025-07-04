@@ -3,7 +3,7 @@
 ## Overview
 India Chronicle Quests is a comprehensive tourism website offering detailed historical and cultural insights on Indian states and cities. Built with HTML, CSS, JavaScript, and Google Maps API, it provides an interactive, user-friendly platform for travelers and enthusiasts to explore India's rich heritage.
 
-🌐 **Website:** [https://indian-chronicle-quests.netlify.in](https://indian-chronicle-quests.netlify.in)
+🌐 **Website:** [https://indian-chronicle-quests.netlify.app](https://indian-chronicle-quests.netlify.app)
 
 ## Objectives 🎯
 - Deliver accurate historical and cultural information on Indian destinations 🏰📜.
